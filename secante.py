@@ -22,12 +22,18 @@ x = []
 a = 1
 b = 2
 
+#Função para alocar o valor de a na ultima posição da fila
 
 x.append(a)
 x.append(b)
 
 contador = 1
+
+#Valor do primeiro indice de xn
+
 n = 1
+
+
 
 while(abs(f(xn)) > error):
 
